@@ -1,0 +1,14 @@
+﻿女汉子=valkyr_prime_set
+女汉子=valkyr_prime_set
+牛p=rhino_prime_set
+李明博=limbo_prime_set
+李明博p=limbo_prime_set
+水男p=hydroid_prime_set
+摸尸=nekros_prime_set
+电男=volt_prime_set
+龙p=chroma_prime_set
+摸尸图=nekros_prime_blueprint
+摸尸系统=nekros_prime_system
+洛基=loki_prime_set
+脑溢血=nyx_prime_set
+火鸡p=Ember_prime_set
